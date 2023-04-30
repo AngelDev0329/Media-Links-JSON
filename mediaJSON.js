@@ -134,7 +134,7 @@ const images = [
   "https://images.unsplash.com/photo-1503424886307-b090341d25d1",
   "https://images.unsplash.com/photo-1549558549-415fe4c37b60",
   "https://images.unsplash.com/photo-1466133633688-187f0b492390",
-  "https://images.unsplash.com/photo-1491425432462-010715fd7ed7"
+  "https://images.unsplash.com/photo-1491425432462-010715fd7ed7",
   "https://images.unsplash.com/photo-1511300636408-a63a89df3482"
 ]
 
